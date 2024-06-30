@@ -1,0 +1,58 @@
+body {
+    background: #FFE569;
+}
+
+#add {
+    height: 200px;
+    width: 500px;
+    background: #FF7D29;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+
+}
+
+#get {
+    max-height: auto;
+    width: 500px;
+    background: linear-gradient(130deg, #FFBF00, #FF9A00);
+    margin: auto;
+    border-radius: 20px;
+
+}
+
+input {
+    border: 0;
+    outline: 0;
+    padding: 8px 20px;
+    height: 18x;
+    border-radius: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 14px;
+    margin-bottom: 18px;
+
+
+}
+
+#add input:hover {
+    background-color: #B3C8CF;
+    color: black;
+}
+
+#get h1 {
+    text-align: center;
+}
+
+button {
+    border: 0;
+    outline: 0;
+    background-color: #9AC8CD;
+    text-align: center;
+    background: linear-gradient(130deg, #FFA62F, #FFBF78);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
